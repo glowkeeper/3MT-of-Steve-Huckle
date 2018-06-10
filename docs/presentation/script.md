@@ -4,7 +4,7 @@ My work investigates how blockchain technology is a means by which communities c
 
 Blockchain technology underpins Bitcoin; a digital currency where you transfer value by providing an electronic signature, a process akin to signing a cheque.
 
-Blockchains have applications aside from Bitcoin, too. That's because a blockchain is a very capable distributed database, a prized quality in our present Information Age, where data is King (unless, of course, you are Cambridge Analytica).
+Blockchains have applications aside from Bitcoin, too. That's because a blockchain is a very capable distributed database, a prized quality in our present Information Age, where data is King (unless, of course, you work for Cambridge Analytica).
 
 Blockchains are formed by blocks of information based on a chain of transactions - hence the name. The technology is independent of any controlling entity because nodes on its network are equally privileged. They also include numerous security measures; properties that lead to a system ideally suited for trusted cooperation.
 
