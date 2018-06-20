@@ -2,7 +2,7 @@
 
 My work investigates how blockchain technology is a means by which communities can collaborate.
 
-Blockchain technology underpins Bitcoin; a digital currency where you transfer value by providing an electronic signature, a process similar to signing a cheque.
+Blockchain underpins Bitcoin; a digital currency where you transfer value by providing an electronic signature, a process similar to signing a cheque.
 
 But blockchains also have applications aside from Bitcoin. That's because a blockchain is a very capable distributed database, a prized quality in our present Information Age, where data is King (unless, of course, you're Cambridge Analytica).
 
