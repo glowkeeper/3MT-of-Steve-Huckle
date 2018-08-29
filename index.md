@@ -4,7 +4,7 @@ title: Steven Huckle's 3MT Presentation
 
 Steve Huckle's presentation for the University of Sussex's [Three Minute Thesis (3MT)](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis).
 
-Here, you can [hear the talk](/audio/3MT.ogg), as well as read the presentation's [abstract](/docs/abstract.md) and [script](/docs/presentation/script.md). You can even view the talk's [poster](/docs/presentation/3MT.bmp).
+Here, you can [listen to the talk](/audio/3MT.ogg), as well as read the presentation's [abstract](/docs/abstract.md) and [script](/docs/presentation/script.md). You can even view the talk's [poster](/docs/presentation/3MT.bmp).
 
 Copyright © Steven Huckle, 2017-2018.
 
