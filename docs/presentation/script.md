@@ -1,5 +1,5 @@
 ---
-title: Script
+title: 3MT Script
 description: Script of my 3MT presentation
 author: steven_huckle
 categories:

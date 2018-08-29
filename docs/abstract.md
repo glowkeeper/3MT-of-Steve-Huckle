@@ -1,5 +1,5 @@
 ---
-title: Abstract
+title: 3MT Abstract
 description: Abstract of my 3MT presentation
 author: steven_huckle
 categories:
