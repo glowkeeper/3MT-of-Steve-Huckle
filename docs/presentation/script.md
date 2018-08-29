@@ -1,5 +1,10 @@
-# 3MT Script
-
+---
+title: Script
+description: Script of my 3MT presentation
+author: steven_huckle
+categories:
+  - Post
+---
 My work investigates how blockchain technology is a means by which communities can collaborate.
 
 Blockchain underpins Bitcoin; a digital currency where you transfer value by providing an electronic signature, a process similar to signing a cheque.
